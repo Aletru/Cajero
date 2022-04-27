@@ -1,7 +1,7 @@
-# Proyecto Cajero Automatico
+# Proyecto Cajero Automático
 
-El siguiente proyecto se basa en la reacreacion de un cajero automatico con interfaz grafica en java
-, que cumple con las siguientes fucniones:
+El siguiente proyecto se basa en la recreación de un cajero automático con interfaz gráfica en java
+, que cumple con las siguientes funciones:
 
 * Consultar saldo
 * Depositar
